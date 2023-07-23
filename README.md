@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/best-stats-card-component-using-bootstrap-3MrcfxZQ5Z)
+- Live Site URL: [here](https://jade-sorbet-cd094d.netlify.app)
 
 ## My process
 
